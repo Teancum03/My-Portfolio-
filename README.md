@@ -34,7 +34,7 @@ This was a solo project I created—a shop that sells fitness supplements at the
 
 ## Education
 
-- Certificate of Full Stack Web Development, Level 6 - Dev Academy, 2023
+- Certificate in Applied Software Development, Level 6 - Dev Academy, 2023
 
 ## Contact Me
 
